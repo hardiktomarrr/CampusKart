@@ -1,0 +1,9 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="oval">
+            <solid android:color="#F5F5F5" />
+            <size android:width="32dp" android:height="32dp" />
+        </shape>
+    </item>
+    <item android:drawable="@drawable/ic_star" android:bottom="4dp" android:left="4dp" android:right="4dp" android:top="4dp" />
+</layer-list>

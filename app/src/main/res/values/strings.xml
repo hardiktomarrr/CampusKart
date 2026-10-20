@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CampusKart</string>
+    <string name="title_home">Home</string>
+    <string name="title_favourites">Favourites</string>
+    <string name="title_my_listings">My Listings</string>
+    <string name="search_hint">Search listings...</string>
+    <string name="filter_all">All</string>
+    <string name="error_messages">An error occurred.</string>
+</resources>
